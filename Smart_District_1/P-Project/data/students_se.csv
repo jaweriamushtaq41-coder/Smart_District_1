@@ -1,0 +1,9 @@
+student_id,name,level,department,marks,fee_due,fee_paid
+S010,zainab raza,GR,SE,74,2026-09-01,2026-09-01
+S011,omar farooq,UG,SE,abc,2026-09-01,2026-09-01
+S012,hira shah,XX,SE,60,2026-09-01,2026-09-01
+S013,daniyal khan,UG,SE,150,2026-09-01,2026-09-01
+S014,mahnoor iqbal,UG,SE,58,01-09-2026,2026-09-01
+,no id,UG,SE,70,2026-09-01,2026-09-01
+S001,ayesha khan,UG,CS,82,2026-09-01,2026-09-01
+S015,kamran yousaf,UG,SE,44,2026-09-01,2026-09-03

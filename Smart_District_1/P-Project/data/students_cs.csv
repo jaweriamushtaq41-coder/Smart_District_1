@@ -1,0 +1,7 @@
+student_id,name,level,department,marks,fee_due,fee_paid
+S001,ayesha khan,UG,CS,82,2026-09-01,2026-09-01
+S002,bilal ahmed,UG,CS,35,2026-09-01,2026-09-10
+S003,fatima noor,GR,CS,48,2026-09-01,
+S004,usman tariq,HN,CS,91,2026-09-01,2026-09-05
+S005,sara malik,UG,CS,67,2026-09-01,2026-09-01
+S006,hamza ali,HN,CS,55,2026-08-01,
