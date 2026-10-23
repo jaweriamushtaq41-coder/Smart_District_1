@@ -1,12 +1,9 @@
 # Smart_District_1
 
-Name: <Jaweria Mushtaq >
-
-University: <University of Narowal>
-
-Semester: <7>
-
-Domain: <AI>
+- **Name:** Jaweria Mushtaq
+- **University:** University of Narowal
+- **Semester:** 7
+- **Domain:** AI
 
 ## Python Refresher (15-23 Oct 2026)
 
