@@ -1,12 +1,12 @@
 # Smart_District_1
 
-Name: <apna naam yahan likho>
+Name: <Jaweria Mushtaq >
 
-University: <apni university>
+University: <University of Narowal>
 
-Semester: <semester>
+Semester: <7>
 
-Domain: <domain>
+Domain: <AI>
 
 ## Python Refresher (15-23 Oct 2026)
 
