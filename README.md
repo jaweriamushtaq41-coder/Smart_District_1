@@ -21,4 +21,4 @@
 | [P-Task10](P-Task10) | Async Data Sync Dashboard | notebook + `.env.example`, `requirements.txt` |
 | [P-Project](P-Project) | Academic Portal (terminal based) | multi-file Python project |
 
-Har folder mein apna README hai jis mein likha hai ke kya chalana hai.
+
