@@ -2,8 +2,8 @@
 
 - **Name:** Jaweria Mushtaq
 - **University:** University of Narowal
-- **Domain:** AI / Machine Learning
-- **Contact:** 03XX-XXXXXXX
+- **Domain:** AI 
+- **Contact:** 03284151331
 
 ## Python Refresher (15-23 Oct 2026)
 
