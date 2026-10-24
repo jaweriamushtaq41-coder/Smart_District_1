@@ -1,0 +1,14 @@
+AUDIT REPORT  -  2026-10-24 11:23:05
+Folder: sample_project
+
+LICENSE               (no ext)     0.82 KB  2026-09-25
+README.md             .md          1.05 KB  2026-09-09  <-- STALE
+config.json           .json        1.29 KB  2026-09-23  <-- STALE
+archive_2025.csv      .csv         2.46 KB  2026-04-07  <-- STALE
+students.csv          .csv         1.99 KB  2026-10-14
+notes.txt             .txt         1.64 KB  2026-08-25  <-- STALE
+main.py               .py          0.82 KB  2026-10-22
+old_backup.zip        .zip         1.64 KB  2026-06-26  <-- STALE
+utils.py              .py          0.94 KB  2026-10-09
+
+Total files: 9   Stale: 5

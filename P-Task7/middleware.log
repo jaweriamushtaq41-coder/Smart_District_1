@@ -1,0 +1,21 @@
+11:23:05 | INFO     | logging ready: console + file handler dono chal rahe hain
+11:23:05 | INFO     | CALL  get_all_users args=() kwargs={}
+11:23:05 | DEBUG    | ALLOWED get_all_users for Sana
+11:23:05 | INFO     | RETURN get_all_users -> ['ayesha', 'bilal', 'fatima']
+11:23:05 | DEBUG    | get_all_users took 0.0001s
+11:23:05 | INFO     | CALL  generate_report args=('October',) kwargs={}
+11:23:05 | DEBUG    | ALLOWED generate_report for Hina
+11:23:05 | INFO     | RETURN generate_report -> report for October
+11:23:05 | WARNING  | generate_report slow hai: 0.030s
+11:23:05 | INFO     | CALL  delete_user args=('bilal',) kwargs={}
+11:23:05 | DEBUG    | ALLOWED delete_user for Sana
+11:23:05 | INFO     | RETURN delete_user -> bilal deleted
+11:23:05 | DEBUG    | delete_user took 0.0002s
+11:23:05 | INFO     | CALL  delete_user args=('fatima',) kwargs={}
+11:23:05 | ERROR    | DENIED delete_user: Ali (manager) ko admin role chahiye
+11:23:05 | DEBUG    | delete_user took 0.0001s
+11:23:05 | INFO     | request blocked: Ali is not allowed to call delete_user
+11:23:05 | INFO     | CALL  get_all_users args=() kwargs={}
+11:23:05 | ERROR    | DENIED get_all_users: Hina (viewer) ko admin/manager role chahiye
+11:23:05 | DEBUG    | get_all_users took 0.0000s
+11:23:05 | INFO     | request blocked: Hina is not allowed to call get_all_users

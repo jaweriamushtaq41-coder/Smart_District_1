@@ -1,0 +1,10 @@
+PENALTIES REPORT  -  2026-10-24 11:23:05
+Rule: 30 din ke baad Rs 10 per din
+
+README.md               45 din   Rs 160
+config.json             31 din   Rs 20
+archive_2025.csv       200 din   Rs 1710
+notes.txt               60 din   Rs 310
+old_backup.zip         120 din   Rs 910
+
+TOTAL: Rs 3110

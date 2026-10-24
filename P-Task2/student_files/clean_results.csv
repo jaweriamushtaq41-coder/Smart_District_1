@@ -1,0 +1,7 @@
+roll_no,name,subject,marks,status
+CS-01,Ayesha Khan,Python,82.0,PASS
+CS-02,Bilal Ahmed,Python,35.0,FAIL
+CS-03,Fatima Noor,Python,48.0,PASS
+CS-04,Usman Tariq,Python,91.0,PASS
+SE-01,Zainab Raza,Python,74.0,PASS
+SE-05,Kamran Yousaf,Python,38.0,FAIL
